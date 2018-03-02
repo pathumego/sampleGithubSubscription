@@ -1,0 +1,5 @@
+Yanone Kaffeesatz was first published in 2004 and is Yanone’s first ever finished typeface. Its Bold is reminiscent of 1920s coffee house typography, while the rather thin fonts bridge the gap to present times. Lacking self confidence and knowledge about the type scene, Yanone decided to publish the family for free under a Creative Commons License. A decision that should turn out one of the best he ever made. It has been downloaded over 100,000 times to date, and you can witness Kaffeesatz use on German fresh-water gyms, Dubai mall promos and New Zealand McDonalds ads. And of course on coffee and foodstuff packaging and café design around the globe.
+
+In 2009 he reworked much of the typeface and it got published in FontShop’s FontFont Library under the new name [FF Kava](https://yanone.de/fonts/kava/).
+
+Yanone Kaffeesatz is published under the [SIL Open Font License](http://scripts.sil.org/OFL) (OFL) which basically allows unrestricted commercial use with the exception of resale.
